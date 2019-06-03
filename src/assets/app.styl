@@ -1,0 +1,81 @@
+.control-panel
+  .panel-content
+    position relative
+    color #abb3b9
+    width 260px
+    height 100%
+    padding-top 10px
+    margin auto
+
+    .panel-row
+      display flex
+      display -webkit-flex
+      justify-content space-between
+      margin-top 10px
+
+    .label
+      line-height 30px
+
+    .line
+      height 1px
+      background-color #575e67 
+      
+    .input-field
+      position relative
+      .label
+        position absolute
+        top 0px
+        left 5px
+        width 15px
+        height 30px
+        text-align center
+        line-height 30px
+      input
+        // padding-left 30px
+
+    .opacity
+    .radius
+    .rotate
+      input
+        color #fff
+        background-color #2d353a
+        border none
+
+
+    input
+      width 100%
+      height 30px
+      text-align center
+      background-color #454d53
+      border 1px solid #2d353a
+      border-radius 5px
+
+    button
+      flex 1
+      color #fff
+      background-color #575e67
+      border none
+
+.copy-tip
+  position fixed
+  top 65px
+  right 10px
+  width 300px
+  height 48px
+  line-height 48px
+  padding-left 10px
+  color #fff
+  background-color rgba(28,175,154,0.8)
+  border-radius 5px
+  z-index 999
+  transition all 0.5s linear
+  -webkit-transition all 0.5s linear
+  -moz-transition all 0.5s linear
+  visibility hidden
+  opacity 0
+.copy-tip-fadein
+  visibility visible
+  opacity 1
+.copy-tip-fadeout
+  visibility hidden
+  opacity 0

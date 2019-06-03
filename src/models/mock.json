@@ -1,0 +1,243 @@
+{
+  "id": "1",
+  "name": "我是八爪",
+  "description": "来吃我吧",
+  "type": "A行业",
+  "scene": "专业单身30年",
+  "tag": ["心塞", "呵呵"],
+  "thumb": "",
+  "bgm": "",
+
+  "pages": [{
+    "bgcolor": "yellow",
+    "opacity": 0.5,
+    "bgpic": "http://bazhuawangluo.img-cn-hangzhou.aliyuncs.com/com/micrositebuilderweb/1/1457792675143.jpg",
+    "h": 1235,
+    "w": 700,
+    "l": -40,
+    "t": -20,
+    "crop": {
+      "h": 0,
+      "w": 0,
+      "l": 20,
+      "t": 0
+    },
+    "effect": "",
+
+    "elements": [
+      {
+        "type": "pic",
+        "url": "http://bazhuawangluo.img-cn-hangzhou.aliyuncs.com/com/micrositebuilderweb/1/1457792675143.jpg",
+        "h": 568 ,
+        "w": 320,
+        "l": 40,
+        "t": 60,
+        "ih": 568,
+        "iw": 320,
+        "il": 0,
+        "it": 0,
+        "crop": {
+          "h": 0,
+          "w": 0,
+          "l": 0,
+          "t": 0
+        },
+        "rotate": 0,
+        "borderradius": 0,
+        "opacity": 1,
+        "animation": {
+          "in": {
+            "effect": "",
+            "delay": 600,
+            "speed": 1000
+          },
+          "out": {
+            "effect": "",
+            "delay": 600,
+            "speed": 1000
+          }
+        }
+      },
+      {
+        "type": "pic",
+        "url": "http://bazhuawangluo.img-cn-hangzhou.aliyuncs.com/com/micrositebuilderweb/1/1457792675143.jpg",
+        "h": 568 ,
+        "w": 320,
+        "l": 140,
+        "t": 160,
+        "ih": 568,
+        "iw": 320,
+        "il": 0,
+        "it": 0,
+        "crop": {
+          "h": 0,
+          "w": 0,
+          "l": 0,
+          "t": 0
+        },
+        "rotate": 0,
+        "borderradius": 0,
+        "opacity": 1,
+        "animation": {
+          "in": {
+            "effect": "",
+            "delay": 600,
+            "speed": 1000
+          },
+          "out": {
+            "effect": "",
+            "delay": 600,
+            "speed": 1000
+          }
+        }
+      }
+    ]
+  },
+  {
+    "bgcolor": "#ffffff",
+    "bgopacity": 0.5,
+    "h": 1235,
+    "w": 700,
+    "l": -40,
+    "t": 0,
+    "crop": {
+      "h": 0,
+      "w": 0,
+      "l": 20,
+      "t": 0
+    },
+    "effect": "",
+
+    "elements": [{
+      "type": "pic",
+      "url": "http://bazhuawangluo.img-cn-hangzhou.aliyuncs.com/com/micrositebuilderweb/1/1457792675143.jpg",
+      "h": 400,
+      "w": 300,
+      "l": 40,
+      "t": 60,
+      "ih": 400,
+      "iw": 300,
+      "il": 40,
+      "it": 60,
+      "crop": {
+        "h": 0,
+        "w": 0,
+        "l": 20,
+        "t": 0
+      },
+      "rotate": 60,
+      "borderradius": 60,
+      "opacity": 0.6,
+      "animation": {
+        "in": {
+          "effect": "",
+          "delay": 600,
+          "speed": 1000
+        },
+        "out": {
+          "effect": "",
+          "delay": 600,
+          "speed": 1000
+        }
+      }
+    }]
+  },
+  {
+    "bgcolor": "#ffffff",
+    "bgopacity": 0.5,
+    "h": 1235,
+    "w": 700,
+    "l": -40,
+    "t": 0,
+    "crop": {
+      "h": 0,
+      "w": 0,
+      "l": 20,
+      "t": 0
+    },
+    "effect": "",
+
+    "elements": [{
+      "type": "pic",
+      "url": "http://bazhuawangluo.img-cn-hangzhou.aliyuncs.com/com/micrositebuilderweb/1/1457792675143.jpg",
+      "h": 400,
+      "w": 300,
+      "l": 40,
+      "t": 60,
+      "ih": 400,
+      "iw": 300,
+      "il": 40,
+      "it": 60,
+      "crop": {
+        "h": 0,
+        "w": 0,
+        "l": 20,
+        "t": 0
+      },
+      "rotate": 60,
+      "borderradius": 60,
+      "opacity": 0.6,
+      "animation": {
+        "in": {
+          "effect": "",
+          "delay": 600,
+          "speed": 1000
+        },
+        "out": {
+          "effect": "",
+          "delay": 600,
+          "speed": 1000
+        }
+      }
+    }]
+  },
+  {
+    "bgcolor": "#ffffff",
+    "bgopacity": 0.5,
+    "h": 1235,
+    "w": 700,
+    "l": -40,
+    "t": 0,
+    "crop": {
+      "h": 0,
+      "w": 0,
+      "l": 20,
+      "t": 0
+    },
+    "effect": "",
+
+    "elements": [{
+      "type": "pic",
+      "url": "http://bazhuawangluo.img-cn-hangzhou.aliyuncs.com/com/micrositebuilderweb/1/1457792675143.jpg",
+      "h": 400,
+      "w": 300,
+      "l": 40,
+      "t": 60,
+      "ih": 400,
+      "iw": 300,
+      "il": 40,
+      "it": 60,
+      "crop": {
+        "h": 0,
+        "w": 0,
+        "l": 20,
+        "t": 0
+      },
+      "rotate": 60,
+      "borderradius": 60,
+      "opacity": 0.6,
+      "animation": {
+        "in": {
+          "effect": "",
+          "delay": 600,
+          "speed": 1000
+        },
+        "out": {
+          "effect": "",
+          "delay": 600,
+          "speed": 1000
+        }
+      }
+    }]
+  }]
+}
